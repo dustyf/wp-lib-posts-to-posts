@@ -12,7 +12,7 @@
             "type": "vcs",
             "url": "https://github.com/dustyf/wp-scb-framework.git"
         }
-    ]
+    ],
     "autoload": {
         "files": ["autoload.php"]
     }
