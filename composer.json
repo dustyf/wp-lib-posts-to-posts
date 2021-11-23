@@ -1,7 +1,7 @@
 {
-    "name": "scribu/lib-posts-to-posts",
+    "name": "dustyf/lib-posts-to-posts",
 	"description": "A library for many-to-many relationships in WordPress",
-    "homepage": "https://github.com/scribu/wp-lib-posts-to-posts",
+    "homepage": "https://github.com/dustyf/wp-lib-posts-to-posts",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
